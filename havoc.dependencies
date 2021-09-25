@@ -1,26 +1,30 @@
 [
  {
    "remote": "github",
-   "repository": "android_device_xiaomi_sdm660-common",
+   "repository": "android_device_xiaomi_tulip-common",
    "target_path": "device/xiaomi/sdm660-common",
-   "branch": "eleven"
+   "branch": "eleven",
+   "depth" : "1"
  },
  {
-   "remote": "gitlab",
-   "repository": "proprietary_vendor_xiaomi",
+   "remote": "havoc-devices-gitlab",
+   "repository": "android_vendor_xiaomi_tulip-common",
    "target_path": "vendor/xiaomi",
-   "branch": "eleven"
+   "branch": "eleven",
+   "depth" : "1"
  },
  {
    "remote": "github",
-   "repository": "android_vendor_xiaomi_MiuiCamera",
-   "target_path": "AkhilmsAchu/vendor/miuicamera",
-   "branch": "lineage-18.1"
+   "repository": "android_vendor_xiaomi_tulip-MiuiCamera",
+   "target_path": "vendor/miuicamera",
+   "branch": "eleven",
+   "depth" : "1"
  },
  {
    "remote": "github",
-   "repository": "android_kernel_xiaomi_sdm660",
+   "repository": "android_kernel_xiaomi_tulip",
    "target_path": "kernel/xiaomi/sdm660",
-   "branch": "eleven"
+   "branch": "eleven",
+   "depth" : "1"
  }
 ]
