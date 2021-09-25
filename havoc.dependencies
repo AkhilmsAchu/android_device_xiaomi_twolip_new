@@ -7,7 +7,7 @@
    "depth" : "1"
  },
  {
-   "remote": "havoc-devices-gitlab",
+   "remote": "github",
    "repository": "android_vendor_xiaomi_tulip-common",
    "target_path": "vendor/xiaomi",
    "branch": "eleven",
