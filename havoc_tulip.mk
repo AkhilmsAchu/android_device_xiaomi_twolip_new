@@ -41,8 +41,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="tulip-user 9 PKQ1.180904.001 V12.0.1.0.PEKMIXM release-keys"
 
 BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ3A.210905.001/7511028:user/release-keys"
-
-# Havoc Specific props
-HAVOC_BUILD_TYPE := Official
-HAVOC_MAINTAINER := Akhil_MS(AkhilmsAchu)
-HAVOC_GROUP_URL := https://t.me/havoc_tulip
